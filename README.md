@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvolcz&show_icons=true&theme=radical)
 </div>
 
-Hi! I work as a consultant at [Springflod](https://springflod.se) and help companies create effective cyber security within the finance sector.
+Hi! I work as a consultant at [Springflod](https://springflod.se) and help companies within the finance sector create effective cyber security.
 
 # Where to find me
 <p align="center">
